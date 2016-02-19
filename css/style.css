@@ -10,13 +10,12 @@ body {
 h1{
 	font-family: Open Sans Condensed 700;
 	font-style: bold;
-	font-size: 48px;
+	font-size: 36px;
 }
 h2{
-	font-family: Open Sans Condensed;
-	font-style: italic;
-	letter-spacing: 4px;
-	font-size: 36px;
+	font-family: Open Sans;
+	letter-spacing: 0px;
+	font-size: 24px;
 }
 
 h3{
@@ -30,13 +29,13 @@ h4{
 h5{
 	font-family: Open Sans;
 	font-style: bold;
-	font-size: 24px;
+	font-size: 18px;
 	color: black;	
 }
 
 h6{
 	font-family: Open Sans Condensed 700;
-	font-size: 18px;
+	font-size: 14px;
 	text-align : left;
 	color: black;
 	margin-bottom: 1em;
