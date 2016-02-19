@@ -55,7 +55,7 @@ p{
 	margin-top: 1em;
 	margin-left: 5%;
   	margin-right: 5%;
-  	text-align: center;
+  	text-align: left;
 }
 
 
@@ -76,6 +76,12 @@ float:left;
 	position: relative;
 }
 
+#container-fluid {
+	margin: 5px;
+	padding: 0px;
+	position: center;
+}
+
 
 #teaser {
 	text-align: center;
@@ -86,6 +92,7 @@ float:left;
 	opacity : 0.8;
 	border-radius: 5px 5px 5px 5px;
 	text-align : right;
+	margin-top: 1em;
 }
 
 .spacer {
@@ -94,7 +101,7 @@ float:left;
 
 .feature {
 	margin: auto;
-	position: relative;
+	position: center;
 }
 
 	
